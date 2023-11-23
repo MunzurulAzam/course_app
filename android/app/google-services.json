@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "291937214407",
+    "project_id": "loginapp-f2ff3",
+    "storage_bucket": "loginapp-f2ff3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291937214407:android:520bba2a19a2c22a1c43e2",
+        "android_client_info": {
+          "package_name": "com.azam.dev.loginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291937214407-ofiv7nq9sol160dg6jj3j7u3006b7jpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5hhGwTLzro4Ibvm25QaEW-E7-B164v1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291937214407-ofiv7nq9sol160dg6jj3j7u3006b7jpm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "291937214407-9qfke5c4906jf7ijretdgtdghambui3v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dev.androidteam.gtr.halda"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291937214407:android:1787c337b58171ce1c43e2",
+        "android_client_info": {
+          "package_name": "com.dev.androidteam.gtr.halda"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291937214407-ofiv7nq9sol160dg6jj3j7u3006b7jpm.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB5hhGwTLzro4Ibvm25QaEW-E7-B164v1M"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291937214407-ofiv7nq9sol160dg6jj3j7u3006b7jpm.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "291937214407-9qfke5c4906jf7ijretdgtdghambui3v.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.dev.androidteam.gtr.halda"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
